@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "Extract Text (OCR)",
+    "Prompt": "Act as an OCR system. Extract all visible text from this image precisely without added commentary."
+  },
+  {
+    "Title": "Describe Image",
+    "Prompt": "Describe the contents and key visual elements of this image in detail."
+  },
+  {
+    "Title": "Analyze Error / Code",
+    "Prompt": "Analyze the error message or code shown in this snippet and propose a solution."
+  }
+]

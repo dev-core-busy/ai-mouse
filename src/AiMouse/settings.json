@@ -1,0 +1,11 @@
+{
+  "Endpoint": "http://localhost:11434/v1/chat/completions",
+  "Model": "llama3.2-vision",
+  "ApiKey": "",
+  "SystemPrompt": "",
+  "TimeoutSeconds": 120,
+  "MaxTokens": 2048,
+  "Temperature": 0.2,
+  "DragThreshold": 8,
+  "CopyResultToClipboard": false
+}
